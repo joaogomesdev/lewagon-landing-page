@@ -1,0 +1,129 @@
+/* Write some CSS below */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Overpass;
+  color: #404042;
+  font-size: 18px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Chivo;
+}
+
+a {
+  color: #1a48e3;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #ce2fae;
+}
+
+.banner {
+  width: 100vw;
+  height: 60vh;
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  object-fit: cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-direction: column;
+}
+
+.banner > h1 {
+  font-size: 46px;
+  color: white;
+}
+
+.banner > p {
+  margin-top: 20px;
+  color: #b3b4b4;
+  font-size: 20px;
+}
+
+.banner > a {
+  margin-top: 20px;
+  background-color: #1a48e2;
+  color: white;
+  padding: 16px 28px;
+  border-radius: 4px;
+
+  font-weight: medium;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+
+  width: 100%;
+  max-width: 70vw;
+  margin-top: 20px;
+}
+
+.container > h2 {
+  align-self: start;
+}
+
+.cards {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-white {
+  height: 300px;
+  width: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+
+  flex-direction: column;
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.02);
+  padding: 10px;
+  cursor: pointer;
+}
+
+.card-white img {
+  border-radius: 6px;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.footer {
+  margin-top: 40px;
+  background-color: #404042;
+  height: 100px;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+}
