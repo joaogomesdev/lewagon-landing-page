@@ -2,51 +2,22 @@
   🚎 Le Wagon Workshop - Landing Page 👨🏻‍💻
 </h1>
 <h1 align="center">
- <img alt="Building API" height="100" title="" src="https://i.imgur.com/h8gFOXV.png" />
+ <img alt="Building API" height="100" title="" src="https://pbs.twimg.com/profile_images/1534837428883755009/OgroMZV9_400x400.jpg" />
 </h1>
+
+![Website](https://media.giphy.com/media/OvIs5YED3zPPnnxGM7/giphy.gif)
 
 ## 💻 Project
 
-🚧 Project carried out for the Software Development and Operations subject to improve the practice of version control and development in .NET Core octopus 🐙
-
-## 🔨 Features
-
-- [x] CRUD Building
-- [x] CRUD Floor
-- [x] CRUD Flat
-- [x] CRUD Owner
-
-- [x] Calculate Flat Cost
-- [x] Calculate Owner Flats Cost
+A simple landing page created in a Le Wagon Porto Workshop ⚡️
 
 ## ✨ Technologies
 
-- [x] .NET Core
-- [x] Swagger
-- [x] Unit tests with NUnit
-
-## 🌱 Swagger DOCS
-
-- Endpoint documentation with Swagger.
-  - We decided to implement the swagger as it is an excellent way to test and document the built endpoints.
-  - To access it you should:
-    - Clone the repository
-    - Build and Run the project
-    - Access the [http://localhost:5000](http://localhost:5000) and you be redirected to Swagger page
-
-## 🔖 Front-End App
-
-- Under construction 🚧
-- Under construction 🚧
-- Under construction 🚧
-- Under construction 🚧
+- [x] HTML
+- [x] CSS
 
 ## 🏃‍♂️ Running the project
 
-Clone the repository
+- Clone the repository
 
-- Under construction 🚧
-
-## 🟣 Insomnia
-
-- Under construction 🚧
+- Run in your browser ✨
